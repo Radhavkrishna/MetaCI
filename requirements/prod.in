@@ -10,6 +10,7 @@ django-crispy-forms
 django-defender
 django-environ
 django-guardian
+django-extensions
 django-js-reverse
 django-log-request-id
 django-model-utils
