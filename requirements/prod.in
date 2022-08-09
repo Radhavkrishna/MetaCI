@@ -29,5 +29,6 @@ redis
 rq
 rq-scheduler
 setuptools
+django-debug-toolbar
 https://github.com/SFDO-Tooling/sfdo-template-helpers/archive/v0.19.0.tar.gz
 whitenoise
